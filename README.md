@@ -12,7 +12,8 @@ C.C cost
 - perlu proses
     - daily reward
     - cost fix
-    - start time, finish time
+    - start time
+    - finish time
     - x deadline: tgl mulai aktivitas + duration
     - x predecessor
 
@@ -30,3 +31,5 @@ C.C cost
 
 meminimumkan cost
 reward, penalty
+
+# laporan
